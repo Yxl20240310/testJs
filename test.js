@@ -22,4 +22,5 @@ function quickSort(arr) {
 // Example usage:
 const array = [5, 2, 9, 1, 7, 6, 3];
 const sortedArray = quickSort(array);
-console.log(sortedArray);
+console.log(sortedArrayq);
+//test

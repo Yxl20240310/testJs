@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "name": "Launch js",
+      "program": "${workspaceFolder}/test.js",
+      "request": "launch",
+      "type": "node",
+      "console": "integratedTerminal"
+    }
+  ],
+  "version": "0.0.1"
+}
